@@ -1,0 +1,7 @@
+{
+  "name": "JaustersBot",
+  "version": "1.0.0",
+  "description": "JaustersBot",
+  "main": "bot.js",
+  "author": "Jauster",
+}
