@@ -2,6 +2,6 @@
   "name": "JaustersBot",
   "version": "1.0.0",
   "description": "JaustersBot",
-  "main": "bot.js",
+  "main": "tempchan.py",
   "author": "Jauster",
 }
